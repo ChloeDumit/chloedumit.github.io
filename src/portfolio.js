@@ -168,14 +168,14 @@ const workExperiences = {
       company: "Switch Software Solutions",
       companylogo: require("./assets/images/switchLogo.png"),
       date: "Jun 2021 – Nov 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Full stack developer"
     },
     {
       role: "Software Developer",
       company: "Globant",
       companylogo: require("./assets/images/globantLogo.png"),
       date: "March 2021 – Jun 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Full stack developer"
     }
   ]
 };
